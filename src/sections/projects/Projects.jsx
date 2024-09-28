@@ -2,7 +2,7 @@ import React from 'react';
 import styles from './ProjectStyle.module.css';
 import stockPrediction from '../../assets/stockPrediction.png';
 import sentimentAnalysis from '../../assets/sentiment-analysis.png';
-import ProjectCard from '../../common/projectCard';
+import ProjectCard from '../../common/ProjectCard';
 import MusicClassification from '../../assets/Music-genre-classification.png';
 import movieRecommend from '../../assets/Movie Recomendation System.png';
 import electricalConsumption from '../../assets/Household_electrical_power.png';
