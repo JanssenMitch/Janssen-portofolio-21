@@ -30,7 +30,7 @@ function Skill() {
             <SkillList source={checkIcon} skill="Python"/>
             <SkillList source={checkIcon} skill="Java"/>
             <SkillList source={checkIcon} skill="PHP"/>
-            <SkillList source={checkIcon} skill="HTML/CSS/Javascript/React.js"/>
+            <SkillList source={checkIcon} skill="React.js"/>
             <SkillList source={checkIcon} skill="Laravel"/>
             <SkillList source={checkIcon} skill="Git"/>
          </div>

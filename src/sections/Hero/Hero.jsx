@@ -40,7 +40,7 @@ function Hero() {
             Mitchellano
          </h1>
          <h2>
-            Undergraduate In Computer Science
+            Computer Science
          </h2>
          <span>
             <a href="https://instagram.com" target="_blank">

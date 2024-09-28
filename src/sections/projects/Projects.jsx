@@ -14,13 +14,13 @@ function Projects() {
          <div className={styles.projectContainer}>
             <ProjectCard src={stockPrediction} 
                link="https://github.com/JanssenMitch/ML_project"
-               h3="Stock Market Prediction App"
-               p="Using LSTM & GRU Model Comparison"
+               h3="Stock Market Prediction"
+               p="Using LSTM & GRU Model"
             />
             <ProjectCard src={sentimentAnalysis} 
                link="https://github.com/JanssenMitch/NLP-Sentiment_Analysis"
-               h3="Text Sentiment Analysis NLP"
-               p="Text Sentiment Analysis Using NLP."
+               h3="Text Sentiment Analysis"
+               p="Sentiment Analysis Using NLP."
             />
             <ProjectCard src={MusicClassification} 
                link="https://github.com/JanssenMitch/Music-Genre-Classification-Project---Deep-Learning"
@@ -29,13 +29,13 @@ function Projects() {
             />
             <ProjectCard src={movieRecommend} 
                link="https://github.com/JanssenMitch/Movie-Review-Recommendation"
-               h3="Movie Recommendation Based Review"
-               p="Recommendation by text analysis"
+               h3="Movie Recommendation"
+               p="Recommendation Based Review"
             />
             <ProjectCard src={electricalConsumption} 
                link="https://github.com/JanssenMitch/Household-Energy"
-               h3="Forecating Electrical Consumption"
-               p="Forcasting by implementing hybrid model"
+               h3="Electrical Consumption"
+               p="Implementing hybrid model"
             />
          </div>
       </section>
